@@ -10,7 +10,7 @@ This was our final project at [Berkeley Cybersecurity Boot Camp](https://bootcam
 
 ### Day 1: Red Team
 
-In groups, will infiltrated a web server to capture a flag. The web server was hosted on Cybrscore.
+In groups, we infiltrated a web server to capture a flag. The web server was hosted on Cybrscore.
 
 ### Day 2: Blue Team and Presentation Prep
 
